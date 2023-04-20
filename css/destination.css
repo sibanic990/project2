@@ -1,0 +1,168 @@
+body {
+    position: fixed;
+    display: flex;
+    background-image: url('/image/destination back image.jpg');
+    background-size: cover;
+}
+
+nav {
+    /* background-color: inherit;
+    backdrop-filter: blur(20px); */
+    position: fixed;
+    right: 0px;
+    display: flex;
+    height: 80px;
+    width: 700px;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.box {
+    color: aliceblue;
+    text-align: center;
+    margin: 10px;
+    width: 120px;
+    height: 40px;
+    margin-right: 0px;
+    padding-top: 10px;
+    margin-top: 20px;
+
+}
+.box:hover{
+    color:rgb(14, 154, 154);
+}
+.logo1 {
+    position: relative;
+    left: 60px;
+    margin-top: 20px;
+}
+
+.line2 {
+    position: relative;
+    left: 93px;
+    top: 48px;
+    height: 1px;
+    width: 519px;
+    background-color: white;
+    opacity: 30%;
+}
+
+.bottom-container {
+    display: flex;
+    /* top: 800px; */
+    position: fixed;
+    bottom: 340px;
+    right: 500px;
+    height: 50px;
+    width: 90px;
+    margin: 20px;
+}
+
+.box1 {
+    color: aliceblue;
+    text-align: center;
+    margin: 10px;
+    width: 120px;
+    height: 40px;
+    margin-right: -43px;
+    padding-top: 10px;
+    margin-top: 20px;
+
+}
+.box1:hover{
+    color: rgb(14, 154, 154);
+
+}
+
+.pick {
+    color: white;
+    position: fixed;
+    top: 170px;
+    left: 150px;
+    font-size: 23px;
+}
+.zeroone{
+    color: white;
+    position: fixed;
+    top: 170px;
+    left: 120px;
+    font-size: 23px;
+    opacity: 50%;
+}
+
+.moonpic {
+    display: flex;
+    position: fixed;
+    left: 180px;
+    top: 240px
+}
+
+.moonpic img {
+    width: 85%;
+}
+
+.para4 {
+    color: white;
+    position: fixed;
+    bottom: 110px;
+    font-size: 100px;
+    right: 314px;
+}
+
+.para5 {
+    color: white;
+    position: fixed;
+    bottom: 120px;
+    right: 188px;
+}
+
+.line3 {
+    position: relative;
+    top: 530px;
+    left: 228px;
+    height: 1px;
+    width: 387px;
+    background-color: white;
+    opacity: 30%;
+}
+
+.avg {
+    color: white;
+    position: fixed;
+    left: 800px;
+    top: 550px;
+
+}
+
+.est {
+    color: white;
+    position: fixed;
+    left: 900px;
+    top: 550px;
+    margin-left: 100px;
+
+}
+.para9{
+    color: white;
+    font-size: 100px;
+    position:fixed;
+    left: 803px;
+    top: 220px;
+}
+.para8{
+    color: white;
+    font-size: 100px;
+    position: fixed;
+    left: 803px;
+    top: 220px;
+}
+.para7{
+    color: white;
+    font-size: 100px;
+    position: fixed;
+    left: 803px;
+    top: 220px;
+}

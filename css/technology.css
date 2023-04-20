@@ -1,0 +1,163 @@
+
+
+    body {
+        position: fixed;
+        display: flex;
+        background-image: url('/image/background-technology-desktop.jpg');
+        background-size: cover;
+    }
+
+    nav {
+        background-color: inherit;
+        backdrop-filter: blur(20px);
+        position: fixed;
+        right: 0px;
+        display: flex;
+        height: 80px;
+        width: 700px;
+        margin-top: 20px;
+    }
+
+    .box {
+
+        color: aliceblue;
+        text-align: center;
+        margin: 10px;
+        width: 120px;
+        height: 40px;
+        margin-right: 0px;
+        padding-top: 10px;
+        margin-top: 10px;
+
+    }
+
+    .box:hover {
+        color: rgb(14, 154, 154);
+
+    }
+
+    a {
+        text-decoration: none;
+    }
+ .line2 {
+        position: relative;
+        left: 93px;
+        top: 48px;
+        height: 1px;
+        width: 519px;
+        background-color: white;
+        opacity: 30%;
+    }
+
+    .logo1 {
+        position: relative;
+        left: 60px;
+        margin-top: 20px;
+    }
+    .space {
+        color: white;
+        display: flex;
+        position: fixed;
+        left: 160px;
+        top: 130px;
+        font-size: 20px;
+    }
+    .zerothree{
+        color: white;
+        display: flex;
+        position: fixed;
+        left: 130px;
+        top: 130px;
+        font-size: 20px;
+        opacity: 50%;
+    }
+    
+.termino {
+    color: white;
+    display: flex;
+    position: fixed;
+    left: 250px;
+    top: 310px;
+    font-size: 15px;
+
+}
+
+.no1 {
+    background-color: black;
+    display: flex;
+    height: 70px;
+    width: 70px;
+    position: fixed;
+    left: 30px;
+    top: 210px;
+    font-size: 25px;
+    margin: 100px;
+    border:1px solid ;
+    border-color: white;
+    border-radius: 100px;
+
+}
+.no2 {
+    background-color: black;
+    display: flex;
+    height: 70px;
+    width: 70px;
+    position: fixed;
+    left: 30px;
+    top: 300px;
+    font-size: 25px;
+    margin: 100px;
+    border:1px solid ;
+    border-color: white;
+    border-radius: 100px;
+
+}
+
+.no3 {
+    background-color: black;
+    display: flex;
+    height: 70px;
+    width: 70px;
+    position: fixed;
+    left: 30px;
+    top: 390px;
+    font-size: 25px;
+    margin: 100px;
+    border:1px solid ;
+    border-color: white;
+    border-radius: 100px;
+}
+.one{
+    color: white;
+    display: flex;
+    position: fixed;
+    left: 158px;
+ 
+}
+
+.spaceport{
+    color: white;
+    display: flex;
+    position: fixed;
+    left: 240px;
+    top: 320px;
+    font-size: 49px;
+}
+
+.text {
+    color: white;
+    display: flex;
+    position: fixed;
+    left: 240px;
+    top: 420px;
+    font-size: 17px;
+}
+.spacepic{
+    display: flex;
+    position: fixed;
+    right: 140px;
+    top: 140px
+}
+.spacepic img{
+    width: 480px;
+}
